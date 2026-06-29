@@ -2,6 +2,7 @@
 layout: home
 ---
 
+- [AudioGate](AudioGate)
 - [wavestate](https://github.com/korginc/wavestate_OSS)
 - [opsix](https://github.com/korginc/wavestate_OSS/tree/opsix)
 - [EK-50](https://github.com/korginc/EK-50_OSS)
